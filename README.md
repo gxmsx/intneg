@@ -1,0 +1,2 @@
+# intneg
+Inteligência de negócio
